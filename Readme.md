@@ -1,6 +1,6 @@
 # Read Me
 
-Just a project.
+This is not a useful repo presently.
 
 ## Files
 
